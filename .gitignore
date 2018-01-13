@@ -1,0 +1,11 @@
+
+*.config
+*.DS_Store
+*.swp
+
+.idea
+.vscode
+.ipynb_checkpoints
+
+**/*.pyc
+checkpoint

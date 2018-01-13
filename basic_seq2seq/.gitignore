@@ -1,0 +1,9 @@
+logs
+train
+
+.idea
+.vscode
+.ipynb_checkpoints
+
+**/*.pyc
+checkpoint
